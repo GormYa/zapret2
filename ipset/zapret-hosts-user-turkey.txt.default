@@ -1,0 +1,12 @@
+# Turkey blocked / throttled domains default template
+# Copy or append to ipset/zapret-hosts-user.txt
+discord.com
+discordapp.com
+discordapp.net
+discord.gg
+roblox.com
+rbxcdn.com
+wattpad.com
+pastebin.com
+proton.me
+protonmail.com

@@ -1,0 +1,12 @@
+# Turkey DPI circumvention domain list
+# Populer blocked or throttled domains in Turkey
+discord.com
+discordapp.com
+discordapp.net
+discord.gg
+roblox.com
+rbxcdn.com
+wattpad.com
+pastebin.com
+proton.me
+protonmail.com

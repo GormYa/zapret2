@@ -1,0 +1,6 @@
+# Popular blocked / throttled domains in Turkey for blockcheck2 testing
+discord.com
+roblox.com
+wattpad.com
+pastebin.com
+proton.me
