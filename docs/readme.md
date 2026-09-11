@@ -1,6 +1,8 @@
-## English
+## Languages / Языки / Diller
 
-[Manual](manual.en.md)
+- [English Manual](manual.en.md) | [English Overview](../README.md)
+- [Русский](readme.md)
+- [Türkçe Başlangıç Rehberi](readme.tr.md) | [Türkçe Genel Bakış](../README.tr.md)
 
 ## Зачем это нужно
 
